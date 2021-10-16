@@ -1,4 +1,4 @@
-python
+gunicorn==19.7.1
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
 Markdown==3.3.4
