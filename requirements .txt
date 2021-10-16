@@ -4,7 +4,7 @@ Keras-Preprocessing==1.1.2
 Markdown==3.3.4
 numpy==1.18.5
 oauthlib==3.1.0
-opencv-python-headless
+opencv-python
 tensorflow-cpu
 tensorflow-estimator==2.3.0
 matplotlib
