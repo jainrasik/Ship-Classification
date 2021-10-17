@@ -54,7 +54,7 @@ def main():
                 3. Voila, You got your prediction.  
                 
                 ''')
-    file=st.file_uploader("upload",type=["jpg"])
+    file=st.file_uploader("upload",type=["jpg", "jpeg"])
     if not file:
       st.info("please upload file")
     else:
